@@ -71905,9 +71905,9 @@ ZG(a){var s=0,r=A.a0(t.z),q=this,p,o,n,m
 var $async$oY=A.a1(function(b,c){if(b===1)return A.Y(c,r)
 while(true)switch(s){case 0:q.e.oz(0,B.ID)
 q.aw(new A.a7q(q,new A.tA(a,!0,new A.dN(Date.now(),!1))))
-p=A.nY("http://127.0.0.1:8000/chat/")
+p=A.nY("http://127.0.0.1/chat/")
 o=t.N
-n=A.av(["X-CSRFToken","rqypHUi5IvhXalmYNbZnb6jBRK33fVQt"],o,o)
+n=A.av(["Content-Type","application/json; charset=UTF-8","X-CSRFToken","rqypHUi5IvhXalmYNbZnb6jBRK33fVQt"],o,o)
 s=2
 return A.a7(A.aBw(p,B.bl.MH(A.av(["question",a],o,o),null),n),$async$oY)
 case 2:m=c
