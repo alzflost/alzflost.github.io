@@ -71906,7 +71906,7 @@ while(true)switch(s){case 0:q.e.oz(0,B.ID)
 q.aw(new A.a7q(q,new A.tA(a,!0,new A.dN(Date.now(),!1))))
 p=t.N
 s=2
-return A.a7(A.aBw(A.nY("localhost:8000/chat/"),B.bl.MH(A.aw(["question",a],p,p),null)),$async$oY)
+return A.a7(A.aBw(A.nY("127.0.0.1:8000/chat/"),B.bl.MH(A.aw(["question",a],p,p),null)),$async$oY)
 case 2:o=c
 q.a4d(o.b===200?J.bc(B.bl.Mb(0,A.aAG(A.ayz(o.e).c.a.h(0,"charset")).dC(0,o.w),null),"answer"):"Failed to send message")
 return A.Z(null,r)}})
