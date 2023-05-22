@@ -71906,7 +71906,7 @@ var $async$oY=A.a1(function(b,c){if(b===1)return A.Y(c,r)
 while(true)switch(s){case 0:q.e.oz(0,B.ID)
 q.aw(new A.a7q(q,new A.tB(a,!0,new A.dN(Date.now(),!1))))
 A.rU("here")
-p=A.nY("http://ec2-54-180-119-137.ap-northeast-2.compute.amazonaws.com:8000/chat/")
+p=A.nY("https://ec2-54-180-119-137.ap-northeast-2.compute.amazonaws.com:8000/chat/")
 o=t.N
 n=A.av(["X-CSRFToken","rqypHUi5IvhXalmYNbZnb6jBRK33fVQt"],o,o)
 s=2
