@@ -71906,7 +71906,7 @@ var $async$oY=A.a1(function(b,c){if(b===1)return A.Y(c,r)
 while(true)switch(s){case 0:q.e.oz(0,B.ID)
 q.aw(new A.a7q(q,new A.tB(a,!0,new A.dN(Date.now(),!1))))
 A.rU("here")
-p=A.nY("http://10.0.2.2:8000/chat/")
+p=A.nY("https://127.0.0.1:8000/chat/")
 o=t.N
 n=A.av(["X-CSRFToken","s0YkVqgEKCzy10kvOgnLBeot5d0X7Qbe"],o,o)
 s=2
